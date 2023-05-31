@@ -1,5 +1,16 @@
 .main__hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 48px;
+
   background-color: #1f2937;
+
+  padding: 80px 0;
+}
+
+.main__hero div {
+  width: 30%;
 }
 
 .main__hero-title {
@@ -11,4 +22,6 @@
 .main__hero-subtitle {
   font-size: 18px;
   color: #e5e7eb;
+
+  margin: 5px 0;
 }
