@@ -1,6 +1,17 @@
 .header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
   background-color: #1f2937;
   color: #f9faf8;
+}
+
+.header__nav-list {
+  display: flex;
+  gap: 20px;
+
+  list-style: none;
 }
 
 .header__nav-list-link {
