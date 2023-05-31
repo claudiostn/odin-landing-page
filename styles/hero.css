@@ -23,5 +23,20 @@
   font-size: 18px;
   color: #e5e7eb;
 
-  margin: 5px 0;
+  margin: 10px 0;
+}
+
+.main__hero-button {
+  display: inline-block;
+
+  background-color: #3882f6;
+
+  font-size: 18px;
+  font-weight: 700;
+  color: #f9faf8;
+  text-decoration: none;
+  text-align: center;
+
+  padding: 10px 30px;
+  border-radius: 10px;
 }
