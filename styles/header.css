@@ -1,9 +1,9 @@
-header {
+.header {
   background-color: #1f2937;
   color: #f9faf8;
 }
 
-nav ul li a {
+.header__nav-list-link {
   color: #e5e7eb;
   text-decoration: none;
 }
