@@ -1,15 +1,13 @@
 .main__hero {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
-  gap: 48px;
 
   background-color: #1f2937;
-
   padding: 80px 0;
 }
 
-.main__hero div {
+.main__hero-left {
   width: 30%;
 }
 
