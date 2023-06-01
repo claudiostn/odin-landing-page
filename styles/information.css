@@ -1,0 +1,40 @@
+.main__information {
+  text-align: center;
+
+  padding: 40px 0 80px;
+}
+
+.main__information-title {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1f2937;
+
+  margin: 0 0 50px;
+}
+
+.main__information-list {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+
+  list-style-type: none;
+}
+
+.main__information-item  figure{
+  width: 200px;
+  height: 200px;
+  
+}
+
+.main__information-item figure img {
+  width: 100%;
+  height: 100%;
+
+  border: 5px solid #3882f6;
+  border-radius: 20px;
+  margin: 5px 0;
+}
+
+.main__information-item figure figcaption {
+  color: #656e7a;
+}
